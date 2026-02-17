@@ -1,1 +1,2 @@
-# Git Intro Project
+#!/bin/bash
+git add
