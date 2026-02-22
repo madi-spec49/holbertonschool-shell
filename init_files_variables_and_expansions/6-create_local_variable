@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MA_VARIABLE
+echo BEST="School"
